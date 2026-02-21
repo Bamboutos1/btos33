@@ -1,0 +1,11 @@
+# Global owner — reviews all changes
+* @Bamboutos1/platform-team
+ 
+# Backend code reviewed by backend team
+/src/api/ @Bamboutos1/backend-team
+ 
+# Infrastructure reviewed by DevOps
+/terraform/ @Bamboutos1/devops-team
+
+# Docs reviewed by text writers
+*.md @Bamboutos1/dev-team
